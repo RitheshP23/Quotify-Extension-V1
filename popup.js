@@ -36,7 +36,7 @@ copyBtn.addEventListener("click", () => {
 });
 
 twitterBtn.addEventListener("click", () => {
-  window.open(`https://www.youtube.com/watch?v=dQw4w9WgXcQ`,"_blank"); 
+  window.open(`http://localhost:3000`,"_blank"); 
 });
 
 quoteBtn.addEventListener("click", randomquote);
