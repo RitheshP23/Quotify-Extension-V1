@@ -36,7 +36,7 @@ copyBtn.addEventListener("click", () => {
 });
 
 twitterBtn.addEventListener("click", () => {
-  window.open(`http://localhost:3000`,"_blank"); 
+  window.open(`https://quote-crafters.vercel.app/`,"_blank"); 
 });
 
 quoteBtn.addEventListener("click", randomquote);
